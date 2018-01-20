@@ -54,5 +54,5 @@ Is a more detailed version of a scenario, which describes in general terms the u
 A detailed description of part of a business process. That is, it lists the exact steps that an employee (or software component) needs to do to accomplish a business goal or sub-goal. We’ll limit a "workflow" to what a single person or team can do, so that when a business process is spread over multiple teams (as the ordering process is), we’ll divide the overall business process into a series of smaller workflows, which are then coordinated in some way.
 
 
-[Event storming]: https://eventstorming.com
+[Event storming]: http://eventstorming.com
 [scenario]: #scenario
