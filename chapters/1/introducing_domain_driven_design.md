@@ -34,6 +34,5 @@ When looking to understand a domain resist the urge to think about the underlyin
 
 Make sure to consider what makes data valid and consider that the fact that each step in a workflow is transforming the data flowing through it.
 
-
-
 [event storming]: ../../glossary.md#event_storming
+[ubiquitous language]: ../../glossary.md#ubiquitous_language
