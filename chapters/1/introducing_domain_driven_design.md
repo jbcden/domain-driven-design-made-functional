@@ -36,4 +36,4 @@ Make sure to consider what makes data valid and consider that the fact that each
 
 
 
-[event storming]: ../glossary.md#event_storming
+[event storming]: ../../glossary.md#event_storming
