@@ -32,6 +32,7 @@ The starting point of all business processes. These can be thought of as trigger
 
 A set of simplifications that represent those aspects of a domain that are relevant to a particular problem. The domain model is part of the solution space, while the domain that it represents is part of the problem space.
 
+<a name="event_storming"></a>
 ## [Event storming]
 
 A technique to discover the events in a domain. It generally works by gathering “Anyone who has questions, and anyone who has answers” into a room and having them post events and the workflows triggered by these events. These can then be further organized into timelines that are discussed etc.
