@@ -32,6 +32,7 @@ The starting point of all business processes. These can be thought of as trigger
 
 A set of simplifications that represent those aspects of a domain that are relevant to a particular problem. The domain model is part of the solution space, while the domain that it represents is part of the problem space.
 
+<a name="event_storming"></a>
 ## [Event storming]
 
 A technique to discover the events in a domain. It generally works by gathering “Anyone who has questions, and anyone who has answers” into a room and having them post events and the workflows triggered by these events. These can then be further organized into timelines that are discussed etc.
@@ -41,6 +42,7 @@ A technique to discover the events in a domain. It generally works by gathering 
 
 Describes a goal that a customer (or other user) wants to achieve, such as placing an order. It is similar to a "story" in Agile development.
 
+<a name="ubiquitous_language"></a>
 ## Ubiquitous Language
 
 The set of concepts and vocabulary that is shared between everyone on the team. This includes requirements documents, designs and source code. Bounded contexts can have their own dialects of the ubiquitous language, as certain terms may have slightly different meanings in different contexts.
